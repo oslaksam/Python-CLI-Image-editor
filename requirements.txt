@@ -1,0 +1,10 @@
+imagemagick
+Python 3:
+	PIL (Pillow)
+	numpy
+	sys
+	os
+	argparse
+	pytest
+
+
